@@ -22,20 +22,20 @@ console.log(x-- - --x)
 
 
 let sum4 = 4 + 5; 
-console.log(sum); 
+console.log(sum4); 
 
-let text = "The result is: " + sum4;
-console.log(text);
+let text1 = "The result is: " + sum4;
+console.log(text1);
 
 
 
 
 let d = 10;
 let g = '10';
-console.log(a == b);
+console.log(d == g);
 //== — сравнивает значения, тип данных не важен.
 //=== — сравнивает и значения, и тип данных.
-console.log(a === b); 
+console.log(d === g); 
 
 
 
