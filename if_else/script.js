@@ -25,8 +25,10 @@ if (score < 18) {
    console.log("vy eshye podrostok");
 } else if (score  < 30) {
    console.log("vy molodoy vzroslyi");
-} else (score > 30) 
+} else
+{
    console.log("vy vzroslyi ");
+};
 
 
 
