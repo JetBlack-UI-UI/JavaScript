@@ -60,7 +60,7 @@
 // let numbers1 = [1, 2, 3, 4, 5];
 
 // for (let f = 0; f < 5; f = f + 1) {
-//     console.log(numbers[f]);
+//     console.log(numbers1[f]);
 // }
 
 // Task 8 
@@ -81,5 +81,5 @@
 //     if (h % 2 == 1) {
 //         continue;
 //     }
-//     console.log(h);
+//     console.log(h1);
 // }
