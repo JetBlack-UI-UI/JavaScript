@@ -13,7 +13,7 @@ fruits.forEach((fruit)=>console.log(fruit));
 //zadanie 5
 const fruitsq = ["yabloko", "grusha"];
 
-const lengths = fruits.map(fruit => fruit.length);
+const lengths = fruitsq.map(fruit => fruit.length);
 
 console.log(lengths);
 
@@ -39,7 +39,7 @@ let sum = numbers.reduce((acc, num) => acc + num, 0);
 
 
 //zadanie8
-const foundNumber = numbers.find(number => number > 10);
+const foundNumber = numbers.find(number => number > 5);
 console.log(foundNumber);
 //koniec zadania 8
 
@@ -68,7 +68,7 @@ console.log(combinedArr);
 
 //zadanie 10
 let fruitsqq = ["Apple", "Banana", "Cherry"];
-let hasBanana = fruits.includes("Banana");
+let hasBanana = fruitsqq.includes("Banana");
 console.log(hasBanana);
 //koniec zadania 10
 
