@@ -77,8 +77,8 @@
 
 // Task 10
 // console.log("Task 10");
-// for (let h1 = 1; h <= 10; h = h + 1) {
-//     if (h % 2 == 1) {
+// for (let h1 = 1; h1 <= 10; h1 = h1 + 1) {
+//     if (h1 % 2 == 1) {
 //         continue;
 //     }
 //     console.log(h1);
